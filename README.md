@@ -8,4 +8,4 @@ Repositório dedicado aos exercícios desenvolvidos durante a UC de Python.
 * Primeiros scripts de entrada e saída.
 
 ---
-*Organizado por Marcos Nunes.*
+*Organizado por Marcos Nunes durante o curso de TEPSI.*
